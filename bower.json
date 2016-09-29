@@ -2,6 +2,9 @@
 	"name": "js-mail-mask",
 	"homepage": "https://github.com/ventuc/js-mail-mask",
 	"description": "Javascript email masker",
+	"authors": [
+	    "Claudio Venturini"
+	],
 	"main": [
 		"mail-mask.js"
 	],
