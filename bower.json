@@ -1,18 +1,24 @@
 {
-  "name": "js-mail-mask",
-  "homepage": "https://github.com/ventuc/js-mail-mask",
-  "description": "Javascript email masker",
-  "keywords": [
-    "javascript",
-    "mask",
-    "email"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+	"name": "js-mail-mask",
+	"homepage": "https://github.com/ventuc/js-mail-mask",
+	"description": "Javascript email masker",
+	"main": [
+		"mail-mask.js"
+	],
+	"keywords": [
+		"javascript",
+		"mask",
+		"email"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"jquery" : "~2.2"
+	}
 }
