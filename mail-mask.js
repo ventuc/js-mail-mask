@@ -22,7 +22,10 @@
 		jQuery('[data-mail-encoded]').each(function(){
 			var $this = jQuery(this);
 			var mail = strAsciiDecode($this.data('mail-encoded'));
-			$this.attr('href', "mailto:" + mail).text(mail);
+			$this.attr('href', "mailto:" + mail);
+			if ($this.text().trim().length == 0){
+				$this.text(mail);
+			}
 		});
 	});
 	
