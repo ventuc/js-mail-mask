@@ -10,7 +10,7 @@
 	},
 	"license": "MIT",
 	"main": "mail-mask.js",
-	"name": "@ventuc/js-mail-maskjs-mail-mask",
+	"name": "@ventuc/js-mail-mask",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/ventuc/js-mail-mask"
