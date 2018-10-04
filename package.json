@@ -1,0 +1,20 @@
+{
+	"author": "Claudio Venturini",
+	"bundleDependencies": false,
+	"dependencies": {
+		"jquery": "~2.2"
+	},
+	"deprecated": false,
+	"description": "Mail masking script",
+	"devDependencies": {
+	},
+	"license": "MIT",
+	"main": "mail-mask.js",
+	"name": "js-mail-mask",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ventuc/js-mail-mask"
+	},
+	"title": "JS Mail Mask",
+	"version": "0.1.0"
+}
