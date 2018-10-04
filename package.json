@@ -2,7 +2,7 @@
 	"author": "Claudio Venturini",
 	"bundleDependencies": false,
 	"dependencies": {
-		"jquery": "~2.2"
+		"jquery": "~2||~3"
 	},
 	"deprecated": false,
 	"description": "Mail masking script",
