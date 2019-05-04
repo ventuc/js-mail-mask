@@ -6,8 +6,7 @@
 	},
 	"deprecated": false,
 	"description": "Mail masking script",
-	"devDependencies": {
-	},
+	"devDependencies": {},
 	"license": "MIT",
 	"main": "mail-mask.js",
 	"name": "@ventuc/js-mail-mask",
